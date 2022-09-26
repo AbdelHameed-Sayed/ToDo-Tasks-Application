@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AbrilFatface-Regular.ttf",
+      "sha1": "270f83ffce77240393c6bca8f0018c1c94862608"
+    },
+    {
+      "path": "assets/fonts/DancingScript-Regular.ttf",
+      "sha1": "05c7255188d0ce33ef58b6a80838412eafc841b6"
+    },
+    {
+      "path": "assets/fonts/IndieFlower-Regular.ttf",
+      "sha1": "43ffc60d2e2cbf0339578690623580ef40fe19cd"
+    }
+  ]
+}
